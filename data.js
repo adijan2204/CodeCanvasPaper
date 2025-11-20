@@ -5,14 +5,21 @@
       feed: [
         { id: 1, image: './IMAGES/1.jpeg', title: 'Creation 1', role: 'writer' },
         { id: 16, image: './IMAGES/16.jpeg', title: 'Creation 1', role: 'developer' },
-        { id: 16, image: './IMAGES/16.jpeg', title: 'Creation 1', role: 'artist' },
+        { id: 16, image: './IMAGES/a1.jpg', title: 'Creation 1', role: 'artist' },
         { id: 18, image: './IMAGES/18.jpeg', title: 'Creationt 1', role: 'consultant' },
         //Artist
-        { id: 16, image: './IMAGES/16.jpeg', title: 'Creation 1', role: 'artist' },
-        { id: 16, image: './IMAGES/16.jpeg', title: 'Creation 2', role: 'artist' },
-        { id: 16, image: './IMAGES/16.jpeg', title: 'Creation 3', role: 'artist' },
-        { id: 16, image: './IMAGES/16.jpeg', title: 'Creation 4', role: 'artist' },
-        { id: 16, image: './IMAGES/16.jpeg', title: 'Creation 5', role: 'artist' },
+        { id: 16, image: './IMAGES/a2.jpg', title: 'Creation 2', role: 'artist' },
+        { id: 16, image: './IMAGES/a3.jpg', title: 'Creation 3', role: 'artist' },
+        { id: 16, image: './IMAGES/a4.jpg', title: 'Creation 4', role: 'artist' },
+        { id: 16, image: './IMAGES/a5.jpg', title: 'Creation 5', role: 'artist' },
+        { id: 16, image: './IMAGES/a6.jpg', title: 'Creation 6', role: 'artist' },
+        { id: 16, image: './IMAGES/a7.jpg', title: 'Creation 7', role: 'artist' },
+        { id: 16, image: './IMAGES/a8.jpg', title: 'Creation 8', role: 'artist' },
+        { id: 16, image: './IMAGES/a9.jpg', title: 'Creation 9', role: 'artist' },
+        { id: 16, image: './IMAGES/a10.jpg', title: 'Creation 10', role: 'artist' },
+        { id: 16, image: './IMAGES/a11.jpg', title: 'Creation 11', role: 'artist' },
+        { id: 16, image: './IMAGES/a12.jpg', title: 'Creation 12', role: 'artist' },
+
 
          //Writer
         { id: 2, image: './IMAGES/2.jpeg', title: 'Creation 2', role: 'writer' },
