@@ -7,6 +7,8 @@
         { id: 16, image: './IMAGES/16.jpeg', title: 'Creation 1', role: 'developer' },
         { id: 16, image: './IMAGES/a1.jpg', title: 'Creation 1', role: 'artist' },
         { id: 18, image: './IMAGES/18.jpeg', title: 'Creationt 1', role: 'consultant' },
+
+        
         //Artist
         { id: 16, image: './IMAGES/a2.jpg', title: 'Creation 2', role: 'artist' },
         { id: 16, image: './IMAGES/a3.jpg', title: 'Creation 3', role: 'artist' },
